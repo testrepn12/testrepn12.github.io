@@ -64,12 +64,12 @@ nav ul li {
 
 nav a {
   display: block;
-  padding: 0 17px;
+  padding: 0 26px;
   color: #f5eeee;
   font-size: 19px;
   line-height: 59.9px;
   text-decoration: none;
-  margin-left: 30px;
+
 }
 
 nav a:hover {
